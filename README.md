@@ -1,7 +1,11 @@
 # Batcar 
-[Youtube Video](https://www.youtube.com/watch?v=u6WbgwYkgD8&t=2s)
 
-Project automated car FPGA [Computer Architecture - Politecnico di Torino - A.Y. 2016-2017]
+Watch the video
+
+[![Watch the video](https://img.youtube.com/vi/u6WbgwYkgD8/hqdefault.jpg)](https://www.youtube.com/watch?v=u6WbgwYkgD8&t=2s)
+
+
+Automated car on FPGA [Computer Architecture - Politecnico di Torino - A.Y. 2016-2017]
 
 Board: Nexys 4 Artix 7 by Digilent.
 
